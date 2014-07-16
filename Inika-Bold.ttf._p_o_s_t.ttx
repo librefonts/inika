@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni00AD"/>
+      <psName name="Amacron"/>
+      <psName name="amacron"/>
+      <psName name="Abreve"/>
+      <psName name="abreve"/>
+      <psName name="Emacron"/>
+      <psName name="emacron"/>
+      <psName name="Ebreve"/>
+      <psName name="ebreve"/>
+      <psName name="hbar"/>
+      <psName name="Itilde"/>
+      <psName name="itilde"/>
+      <psName name="Imacron"/>
+      <psName name="imacron"/>
+      <psName name="Ibreve"/>
+      <psName name="ibreve"/>
+      <psName name="IJ"/>
+      <psName name="ij"/>
+      <psName name="Jcircumflex"/>
+      <psName name="jcircumflex"/>
+      <psName name="kcedilla"/>
+      <psName name="kgreenlandic"/>
+      <psName name="Ldotaccent"/>
+      <psName name="ldot"/>
+      <psName name="Nacute"/>
+      <psName name="nacute"/>
+      <psName name="Eng"/>
+      <psName name="eng"/>
+      <psName name="Omacron"/>
+      <psName name="omacron"/>
+      <psName name="Obreve"/>
+      <psName name="obreve"/>
+      <psName name="Racute"/>
+      <psName name="racute"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="rcommaaccent"/>
+      <psName name="Rcaron"/>
+      <psName name="rcaron"/>
+      <psName name="Umacron"/>
+      <psName name="umacron"/>
+      <psName name="Ubreve"/>
+      <psName name="ubreve"/>
+      <psName name="Uring"/>
+      <psName name="uring"/>
+      <psName name="Euro"/>
+      <psName name="CR"/>
+      <psName name="Ll"/>
+      <psName name="Lu"/>
+      <psName name="o2"/>
+      <psName name="alternateE"/>
+      <psName name="alternateQ"/>
+      <psName name="dinbat1"/>
+      <psName name="dingbat2"/>
+      <psName name="alternatedagger"/>
+      <psName name="uno"/>
+      <psName name="dos"/>
+      <psName name="tres"/>
+      <psName name="cuatro"/>
+      <psName name="kcommaaccent"/>
+    </extraNames>
+  </post>
+
+</ttFont>
