@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Inika-Regular.ttf.ttx, Inika-Bold.ttf.ttx, src/Inika-Regular.otf.ttx,
+  src/Inika-Bold.otf.ttx, src/Inika-Regular-TTF.sfd, src/Inika-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
